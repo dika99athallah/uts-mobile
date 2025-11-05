@@ -27,12 +27,12 @@ class HomePage extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            Image.asset('images/inaklug_banner.jpg'),
+            Image.asset('images/picgedung.png'),
             Padding(
               padding: const EdgeInsets.all(16.0),
               child: Text(
-                "Selamat datang di Inaklug — Layanan Konsultan Pendidikan Internasional. "
-                "Kami membantu mewujudkan impian belajar ke luar negeri.",
+                "Tentang Kami"
+                "INAKLUG adalah Konsultan Pendidikan Internasional di Indonesia yang sudah memberangkatkan lebih dari 3000 mahasiswa Indonesia yang ingin meniti karir di negara maju di dunia.",
                 style: Theme.of(context).textTheme.bodyMedium,
               ),
             ),

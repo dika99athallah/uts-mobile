@@ -19,7 +19,7 @@ class AppTheme {
       ),
       bodyMedium: TextStyle(
         color: Colors.black87,
-        fontSize: 16,
+        fontSize: 25,
       ),
     ),
   );
